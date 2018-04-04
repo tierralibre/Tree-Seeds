@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "speed tree",
+"dataUrl": "Tree Seed.data.unityweb",
+"asmCodeUrl": "Tree Seed.asm.code.unityweb",
+"asmMemoryUrl": "Tree Seed.asm.memory.unityweb",
+"asmFrameworkUrl": "Tree Seed.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
